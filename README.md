@@ -1,11 +1,11 @@
 # Hello, I'm Türker 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions. Here's a little about me:
+Welcome to my GitHub profile! I'm a passionate developer with a love for computer science. Here's a little about me:
 
 ## 🚀 About Me
 
 - **🌍 Location:** Kayseri, Turkey & Hatay, Turkey
-- **💼 Current Role:** Junior full-stack developer
+- **💼 Current Role:** CS student at Erciyes University, Turkey & Junior full-stack developer
 - **🌱 Currently Learning:** Trying to become expert on ASP.NET, React.js, Next.js, Typescript, TailwindCSS by developing full-stack apps. 
 - **📫 Contact:** kivturker@gmail.com
 
