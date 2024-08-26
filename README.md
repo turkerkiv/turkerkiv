@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🎉 Fun Fact
 
-Did you know? I am holding myself tight not to try to learn every field of computer science. Its just all of them is interesting but no worries, i focused on web dev.
+Did you know? I'm holding myself tight, resisting the urge to try to learn every field of computer science. They're all so interesting, but don’t worry—I’m crystal-clear focused on web development.
 
 ---
 
