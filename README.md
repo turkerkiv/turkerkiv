@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for compute
 
 ## 🚀 About Me
 
-- **🌍 Location:** Kayseri, Turkey & Hatay, Turkey
+- **🌍 Location:** Kayseri, Turkey || Hatay, Turkey
 - **💼 Current Role:** CS student at Erciyes University, Turkey & Junior full-stack developer
 - **🌱 Currently Learning:** Trying to become expert on ASP.NET, React.js, Next.js, Typescript, TailwindCSS by developing full-stack apps. 
 - **📫 Contact:** kivturker@gmail.com
