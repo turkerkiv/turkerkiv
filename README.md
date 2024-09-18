@@ -16,18 +16,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for compute
 - **Databases:** PostgreSQL, MSSQL.
 - **Tools:** Git, EF core.
 
-## 📈 GitHub Stats
-
-- Will be added in the future.
-
 ## 🌟 Connect with Me
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/turkerkiv/)
 - **Portfolio website:** [Website](https://sites.google.com/view/turkerkiv)
-
-## 🎉 Fun Fact
-
-Did you know? I'm holding myself tight, resisting the urge to try to learn every field of computer science. They're all so interesting, but don’t worry—I’m crystal-clear focused on web development.
 
 ---
 
