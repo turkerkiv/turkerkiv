@@ -6,12 +6,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for compute
 
 - **🌍 Location:** Kayseri, Turkey || Hatay, Turkey
 - **💼 Current Role:** CS student at Erciyes University, Turkey & Junior full-stack developer
-- **🌱 Currently Learning:** Trying to become expert on ASP.NET, React.js, Next.js, Typescript, TailwindCSS by developing full-stack apps. 
+- **🌱 Currently Learning:** Currently learning ML, AI & trying to become better on ASP.NET, React.js, Next.js, Typescript, TailwindCSS by developing full-stack apps. 
 - **📫 Contact:** kivturker@gmail.com
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools for full-stack developer
 
-- **Languages:** C#, JavaScript, HTML, CSS and a litte Python.
+- **Languages:** C#, JavaScript, HTML, CSS.
 - **Frameworks/Libraries:** React, ASP.NET, Tailwind, Bootstrap.
 - **Databases:** PostgreSQL, MSSQL.
 - **Tools:** Git, EF core.
@@ -24,19 +24,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for compute
 ---
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech. 😊
-
-
-<!--
-**turkerkiv/turkerkiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
