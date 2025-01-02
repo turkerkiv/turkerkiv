@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kivturker@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KomDW2LC42QymMIkFmg0uvlN40j3LQJM/view?usp=sharing](https://drive.google.com/file/d/1KomDW2LC42QymMIkFmg0uvlN40j3LQJM/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1KomDW2LC42QymMIkFmg0uvlN40j3LQJM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
