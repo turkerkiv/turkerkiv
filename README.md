@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any good projects**
 
-- 🤝 I’m looking for help with **TTS & computer vision systems**
+- 🤝 I’m looking for help with **STT & computer vision systems**
 
 - 💬 Ask me about **anything**
 
