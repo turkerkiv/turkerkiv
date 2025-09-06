@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Türker</h1>
-<h3 align="center">Junior fullstack Developer & AI Enthusiastic</h3>
+<h3 align="center">Backend focused fullstack Developer & AI Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turkerkiv&label=Profile%20views&color=0e75b6&style=flat" alt="turkerkiv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turkerkiv" alt="turkerkiv" /></a> </p>
 
-- 🔭 I’m currently working on **several projects with my uni teachers**
+- 🔭 I’m currently working on **our club's website and a backend project**
 
-- 🌱 I’m currently learning **React, JS & TS for frontend, .Net for backend and TTS & Computer Vision Systems for AI**
+- 🌱 I’m currently learning **React, JS & TS for frontend, .Net for backend and Computer Vision Systems for AI**
 
 - 👯 I’m looking to collaborate on **any good projects**
 
-- 🤝 I’m looking for help with **STT & computer vision systems**
+- 🤝 I’m looking for help with **Backend & computer vision systems**
 
 - 💬 Ask me about **anything**
 
