@@ -22,7 +22,7 @@ Final-year Computer Engineering student building scalable backend systems and re
 - 👯 Looking to collaborate on **full-stack, backend, computer vision projects**
 - 🤝 Looking for help with **production-grade computer vision pipelines**
 - 💬 Ask me about: computer vision pipelines, whole systems, or student research (TÜBİTAK/TEKNOFEST) projects
-- 📄 Full experience: [CV / Resume (TR)](turkerkiv.github.io/turker-kivilcim-cv.pdf)
+- 📄 Full experience: [CV / Resume (TR)](https://www.turkerkiv.github.io/turker-kivilcim-cv.pdf)
 
 ---
 
